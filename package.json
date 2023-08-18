@@ -24,7 +24,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.8.0",
+    "canvas": "^2.11.2",
     "express": "^4.16.4"
   },
   "resolutions": {
